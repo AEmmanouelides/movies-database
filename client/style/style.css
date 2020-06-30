@@ -1,0 +1,45 @@
+.collection-item {
+    display: flex;
+    justify-content: space-between;
+}
+
+.material-icons{
+    cursor: pointer;
+    margin-right: 5px;
+}
+
+.vote-box {
+    display: flex;
+    align-items: center;
+}
+
+.likes {
+    width: 20px;
+    margin-left: 10px;
+}
+
+.errors {
+    color: red;
+}
+
+.form {
+    width: 300px;
+    margin: 0 auto;
+}
+
+.moviesLink { 
+    margin-right: 15px;
+}
+
+.backLink {
+    display: block;
+    margin-top: 10px;
+}
+
+.nav-wrapper .brand-logo {
+     margin-left: 5px;
+}
+
+.mt-30 {
+    margin-top: 30px;
+}
